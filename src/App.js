@@ -162,6 +162,29 @@ export default function App() {
           </div>
         </div>
 
+        <div className="r13">
+          <div className="filter1"></div>
+
+          <div className="row">
+            <div className="col-lg-3">
+              <div className="img"></div>
+            </div>
+            <div className="col-lg-3">
+              <div className="img"></div>
+
+            </div>
+            <div className="col-lg-3">
+              <div className="img"></div>
+
+            </div>
+            <div className="col-lg-3">
+              <div className="img"></div>
+
+            </div>
+          </div>
+
+        </div>
+
         <div className="row r14">
           <div className="col-lg-6">
             <div className="heading1">Our Contacts</div>
