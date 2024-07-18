@@ -1,0 +1,552 @@
+.r3 {
+  background: url(./images/man-showing-new-strategy-colleagues.jpg);
+  background-size: cover;
+}
+
+.r3 .img {
+
+  background: #101024a7;
+  color: white;
+  padding: 200px 400px 200px 400px;
+  text-align: center;
+}
+
+.r3 .img .txt1 {
+  font-size: 2em;
+}
+
+.r3 .img .txt2 {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: cursive;
+  letter-spacing: .1em;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.r3 .img .txt4 button {
+  background: rgb(213, 127, 69);
+  color: white;
+  padding: 8px 20px;
+  border: unset;
+  margin-top: 40px;
+}
+
+.r4 .c1 {
+  display: flex;
+  padding: 0 200px;
+  margin-top: -160px;
+}
+
+.r4 .box1 {
+  width: 350px;
+  height: 300px;
+  background: orange;
+  color: #fff;
+  padding: 50px;
+}
+
+.r4 .box1 .txt1 {
+  font-size: 1.5em;
+  /* font-weight: 600; */
+}
+
+.r4 .box1 .txt2 {
+  font-size: 1.8em;
+  font-weight: 700;
+  font-family: sans-serif;
+  margin-bottom: 15px;
+}
+
+.r4 .box1 .txt3 {
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.r4 .box1 .line {
+  width: 25px;
+  height: 2px;
+  background: #fff;
+  margin-bottom: 15px;
+}
+
+.r4 .box1 .txt4 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.r4 .box2 {
+  width: 350px;
+  height: 300px;
+  color: #fff;
+  padding: 50px;
+  background: #5bc7eb;
+}
+
+.r4 .box2 .txt1 {
+  font-size: 1.5em;
+  /* font-weight: 600; */
+}
+
+.r4 .box2 .txt2 {
+  font-size: 1.8em;
+  font-weight: 700;
+  font-family: sans-serif;
+  margin-bottom: 15px;
+}
+
+.r4 .box2 .txt3 {
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.r4 .box2 .line {
+  width: 25px;
+  height: 2px;
+  background: #fff;
+  margin-bottom: 15px;
+}
+
+
+.r4 .box3 {
+  width: 350px;
+  height: 300px;
+  color: #fff;
+  padding: 50px;
+  background: greenyellow;
+}
+
+
+.r4 .box3 .txt4 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.r4 .box3 .txt1 {
+  font-size: 1.5em;
+  /* font-weight: 600; */
+}
+
+.r4 .box3 .txt2 {
+  font-size: 1.8em;
+  font-weight: 700;
+  font-family: sans-serif;
+  margin-bottom: 15px;
+}
+
+.r4 .box3 .txt3 {
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.r4 .box3 .line {
+  width: 25px;
+  height: 2px;
+  background: #fff;
+  margin-bottom: 15px;
+}
+
+.r4 .box3 .txt4 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.r6 {
+  height: 40vh;
+  background: url(./images/colleagues-talking-learning-study-session.jpg);
+  background-size: cover;
+  background-position: center -150px;
+}
+
+.r6 .img {
+  background: #101024c6;
+  /* backdrop-filter: blur(2px); */
+  color: white;
+  text-align: center;
+  padding: 80px 200px;
+}
+
+.r6 .img .txt1 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.r6 .img button {
+  background: orangered;
+  color: white;
+  border: unset;
+  padding: 8px 20px;
+  margin-top: 20px;
+}
+
+.r7 {
+  text-align: center;
+  padding: 100px 200px;
+}
+
+.r7 .text1 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.r7 .cc1 .img {
+  width: 60px;
+  height: 60px;
+  background: url(./images/zigzag_7237036.png);
+  background-size: cover;
+  margin-left: 150px;
+  margin-bottom: 10px;
+  margin-top: 50px;
+}
+
+.r7 .cc1 .txt1 {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.r8 {
+  height: 50vh;
+  background: url(./images/people-taking-part-business-event.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.r8 .img {
+  background: #101024c6;
+  backdrop-filter: blur(2px);
+  color: #fff;
+  text-align: center;
+  position: relative;
+  padding: 80px 200px;
+}
+
+.r8 .img .button {
+  width: 80px;
+  height: 80px;
+  background: #2f728b70;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 700px;
+}
+
+.r8 .img button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #52AFCF;
+  border: unset;
+  color: #fff;
+}
+
+.r8 .img .text1 {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: cursive;
+  letter-spacing: 1px;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.r10 {
+  height: 50vh;
+  background: url(./images/high-angle-coworkers-meeting-office.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.r10 .img {
+  background: #101024c6;
+  backdrop-filter: blur(2px);
+  color: #fff;
+  text-align: center;
+  padding: 50px 500px;
+}
+
+.r10 .img .text1 {
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
+.r11 {
+  padding: 0 300px;
+
+}
+
+.r11 .cc1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -200px;
+  position: relative;
+
+}
+
+.r11 .boxcc {
+  padding: 50px 20px;
+}
+
+
+.r11 .box1 {
+  width: 300px;
+  border: 2px solid #fff;
+  text-align: center;
+  box-shadow: 2px 4px 15px #0c0c0c3e;
+  background: #ffffff;
+
+}
+
+.r11 .box1 .icon {
+  width: 60px;
+  height: 60px;
+  background: url(./images/market\ research.png);
+  background-size: cover;
+  margin: auto;
+
+}
+
+.r11 .box1 .txt1 {
+
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.r11 .box1 .txt2 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.r11 .box1 button {
+  background: #fff;
+  border-color: orangered;
+  color: orangered;
+  padding: 5px 10px;
+  margin-top: 20px;
+}
+
+.r11 .box2 {
+  width: 300px;
+  border: 2px solid #fff;
+
+  text-align: center;
+  box-shadow: 2px 4px 15px #0c0c0c3e;
+  margin-left: 20px;
+  background: #ffffff;
+  height: 500px;
+
+
+
+}
+
+.r11 .box2 .icon {
+  width: 60px;
+  height: 60px;
+  background: url(./images/innovation.png);
+  background-size: cover;
+  margin: auto;
+}
+
+.r11 .box2 .txt1 {
+
+  font-weight: 600;
+}
+
+.r11 .box2 .txt2 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.r11 .box2 button {
+
+  border-color: greenyellow;
+  background: unset;
+  color: greenyellow;
+  padding: 5px 10px;
+}
+
+.r11 .box3 {
+  width: 300px;
+  border: 2px solid #fff;
+
+  text-align: center;
+  box-shadow: 2px 4px 15px #0c0c0c3e;
+  margin-left: 20px;
+  background: #ffffff;
+}
+
+.r11 .box3 .icon {
+  width: 60px;
+  height: 60px;
+  background: url(./images/support\ customer.png);
+  background-size: cover;
+  margin: auto;
+
+}
+
+.r11 .box3 .txt1 {
+
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.r11 .box3 .txt2 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.r11 .box3 button {
+  background: #fff;
+  border-color: aqua;
+  color: aqua;
+  padding: 5px 10px;
+  margin-top: 20px;
+}
+
+.r12 {
+  text-align: center;
+  padding: 50px 200px;
+}
+
+.r12 .heading {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.r12 .cc1 {
+  position: relative;
+
+}
+
+.r12 .cc1 .img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-image: url(./images/handsome-smiling-businessman-using-cellphone-holding-phone-both-hands-looking-pleased-camera-standing-suit-white-background.jpg);
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  left: 220px;
+}
+
+.r12 .cc1 .txt1 {
+  margin-top: 120px;
+}
+
+.r12 .cc1 .txt2 {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.r12 .cc2 .img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-image: url(./images/team-analysts-calculating-profit-amount-making-decisions.jpg);
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  right: 440px;
+}
+
+.r12 .cc2 .txt1 {
+  margin-top: 120px;
+}
+
+.r12 .cc2 .txt2 {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.r12 .fa-circle-o {
+  margin-right: 5px;
+  color: orangered;
+  font-size: 1em;
+}
+
+.r12 .fa-circle {
+  color: orangered;
+}
+
+.r14 {
+  padding: 50px 200px;
+}
+
+.r14 .heading1 {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.r14 .heading2,
+.r14 .heading3,
+.r14 .heading4 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.fa-facebook {
+  color: #0866ff;
+  margin-right: 10px;
+}
+
+.fa-google-plus {
+  color: orangered;
+  margin-right: 10px;
+}
+
+.fa-linkedin {
+  color: #0a66c2;
+  margin-right: 10px;
+}
+
+.fa-twitter {
+  color: rgb(56, 115, 241);
+}
+
+.r14 .head1 {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.r14 button {
+  background: orangered;
+  border: none;
+  color: #fff;
+  padding: 8px 30px;
+  margin-top: 30px;
+}
+
+.r14 .heading3,
+.r14 .heading2,
+.r14 .heading4 {
+  margin-top: 20px;
+}
+
+.r14 .text5 {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  background: rgba(188, 179, 179, 0.064);
+}
+
+.r15 {
+  padding: 10px 100px;
+}
+
+.r15 .cc1 {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.r15 .cc1 span:nth-child(1),
+.r15 .cc1 span:nth-child(2),
+.r15 .cc1 span:nth-child(3),
+.r15 .cc1 span:nth-child(4),
+.r15 .cc1 span:nth-child(5) {
+  margin-right: 30px;
+}
