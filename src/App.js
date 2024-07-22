@@ -6,6 +6,39 @@ export default function App() {
 
 
       <div className="container-fluid">
+        <div className="row r1">
+          <div className="col-2"></div>
+          <div className="col-lg-5">
+            <div className="img"></div>
+            <div className="text1">INVESTMENTS</div>
+          </div>
+          <div className="col-lg-5 d-flex justify-content-center align-content-center">
+            <div className='mx-2'>
+              <span><i class="fa fa-location-arrow" aria-hidden="true"></i></span>
+              <span>121 King Street, Melbourne,Australia</span>
+            </div>
+            <div>
+              <span><i class="fa fa-mail-reply" aria-hidden="true"></i></span>
+              <span>info@example.com</span>
+            </div>
+          </div>
+          <div className="col-2"></div>
+
+        </div>
+
+        <div className="row r2">
+          <div className="col-lg-8 cc1">
+            <span>Home</span>
+            <span>ABOUT</span>
+            <span>SERVICES</span>
+            <span>TEAMS</span>
+            <span>PRICING</span>
+            <span>CONTACTS</span>
+          </div>
+          <div className="col-lg-4">
+            <div className="txt2">800.567.1234</div>
+          </div>
+        </div>
         <div className=" row r3">
           <div className="img">
             <div className="col-lg-12 txt1">
@@ -50,9 +83,34 @@ export default function App() {
             </div>
           </div>
 
+          <div className="row r5">
+            <div className="col-lg-4">
+              <div className="heading">About Us</div>
+              <div className="text1">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere officia et aut magnam ut, voluptatibus aspernatur laboriosam quo labore odit sapiente ab adipisci iste eum eveniet facilis modi consectetur nostrum.
+              </div>
+              <div className="button">
+                <button>Read More</button>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="icon1"></div>
+              <div className="heading2">Wealth Planning</div>
+              error debitis rem blanditiis aliquam repellat fugiat ad iusto veritatis tempora aliquid, iste dolorem cumque quae animi? Culpa.
+              <div className="icon2"></div>
+              <div className="heading3">Easy Savings</div>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores ab doloribus ad vero.
+            </div>
 
-
-          <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat ab sint nulla at ut dolorem eveniet tempora praesentium, nisi esse modi ipsum exercitationem, obcaecati et voluptates error adipisci delectus. Nulla.</h1>
+            <div className="col-lg-4">
+              <div className="icon3"></div>
+              <div className="heading4">Investments Management</div>
+              error debitis rem blanditiis aliquam repellat fugiat ad iusto veritatis tempora aliquid, iste dolorem cumque quae animi? Culpa.
+              <div className="icon4"></div>
+              <div className="heading5">Premium Services</div>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores ab doloribus ad vero.
+            </div>
+          </div>
 
         </div>
 
@@ -95,7 +153,54 @@ export default function App() {
         </div>
 
         <div className="row r9">
-          <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus recusandae rem assumenda tempore, itaque voluptates esse iste vel autem ex nesciunt laudantium odit. Inventore minima culpa, accusantium et mollitia eligendi?</h1>
+          <div className="col-lg-12 txt1">Our Team</div>
+          <div className="col-lg-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt nihil quae quaerat.
+            Quibusdam deleniti modi quisquam magnam, eaque obcaecati sequi ullam delectus
+            dolores quo, saepe fugit optio inventore dolorem repellat?</div>
+          <div className="col-lg-3">
+            <div className="img1"></div>
+            <div className="name">Peter Abrams</div>
+            <div className="title">Co-Founder</div>
+            <div className="icons">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+              <i class="fa fa-google-plus" aria-hidden="true"></i>
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </div>
+          </div>
+          <div className="col-lg-3">
+            <div className="img2"></div>
+            <div className="name">Michel Wolf</div>
+            <div className="title">Manager</div>
+            <div className="icons">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+              <i class="fa fa-google-plus" aria-hidden="true"></i>
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </div>
+          </div>
+          <div className="col-lg-3">
+            <div className="img3"></div>
+            <div className="name">Anna Miller</div>
+            <div className="title">Partner</div>
+            <div className="icons">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+              <i class="fa fa-google-plus" aria-hidden="true"></i>
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </div>
+          </div>
+          <div className="col-lg-3">
+            <div className="img4"></div>
+            <div className="name">Samanta Fox</div>
+            <div className="title">Lawyer</div>
+            <div className="icons">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+              <i class="fa fa-google-plus" aria-hidden="true"></i>
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </div>
+          </div>
         </div>
 
         <div className="row r10">

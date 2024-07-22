@@ -1,3 +1,63 @@
+.r1 {
+  border-bottom: 1px solid gray;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.r1 .img {
+  background-color: #000;
+  width: 90px;
+  height: 30px;
+
+  background: url(./images/3d-rendering-transparent-triangle.png);
+  background-size: cover;
+  background-position: center;
+
+}
+
+.r1 .text1 {
+  font-size: .7em;
+  letter-spacing: 2px;
+}
+
+.r1 .c1 span:nth-child(1) {
+  color: rgb(3, 251, 255);
+  margin-right: 5px;
+}
+
+.r1 .c1 span:nth-child(2) {
+  margin-right: 30px;
+}
+
+.r1 .c1 span:nth-child(3) {
+  color: aqua;
+  margin-right: 10px;
+}
+
+.r2 {
+  padding: 8px 0;
+}
+
+.r2 span:nth-child(1),
+.r2 span:nth-child(2),
+.r2 span:nth-child(3),
+.r2 span:nth-child(4),
+.r2 span:nth-child(5) {
+  margin-right: 20px;
+}
+
+.r2 .cc1 {
+  display: flex;
+  justify-content: center;
+}
+
+
+.r2 .txt2 {
+  color: rgb(9, 223, 215);
+}
+
 .r3 {
   background: url(./images/man-showing-new-strategy-colleagues.jpg);
   background-size: cover;
@@ -151,6 +211,85 @@
   font-weight: 600;
 }
 
+.r5 {
+  padding: 100px 200px;
+}
+
+.r5 .heading {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.r5 .button {
+  margin-top: 30px;
+}
+
+.r5 .button button {
+  border-color: orangered;
+  color: orangered;
+  background: none;
+  padding: 8px 20px;
+}
+
+.r5 .icon1 {
+  width: 60px;
+  height: 60px;
+  background: url(./images/innovation.png);
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.r5 .heading2 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.r5 .icon2 {
+  width: 60px;
+  height: 60px;
+  background: url(./images/planning_12140173.png);
+  background-size: cover;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.r5 .heading3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.r5 .icon3 {
+  width: 60px;
+  height: 60px;
+  background: url(./images/target_10740769.png);
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.r5 .heading4 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.r5 .icon4 {
+  width: 60px;
+  height: 60px;
+  background: url(./images/support\ customer.png);
+  background-size: cover;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.r5 .heading5 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
 .r6 {
   height: 40vh;
   background: url(./images/colleagues-talking-learning-study-session.jpg);
@@ -250,6 +389,66 @@
   letter-spacing: 1px;
   margin-top: 100px;
   margin-bottom: 10px;
+}
+
+.r9 {
+  padding: 80px 200px;
+}
+
+.r9 .txt1 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.r9 .img1 {
+  width: 250px;
+  height: 300px;
+  background: url(./images/elegant-man-with-folded-arms.jpg);
+  background-size: cover;
+  background-position: -50px center;
+  margin-top: 20px;
+  box-shadow: 2px 4px 6px #00000088;
+}
+
+.r9 .img2 {
+  width: 250px;
+  height: 300px;
+  background: url(./images/customer-service-cute-brunette-guy-suit-with-laptop-smiling-headset.jpg);
+  background-size: cover;
+  background-position: -50px center;
+  margin-top: 20px;
+  box-shadow: 2px 4px 6px #00000088;
+}
+
+.r9 .img3 {
+  width: 250px;
+  height: 300px;
+  background: url(./images/young-elegant-businesswoman-posing.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 20px;
+  box-shadow: 2px 4px 6px #00000088;
+}
+
+.r9 .img4 {
+  width: 250px;
+  height: 300px;
+  background: url(./images/widely-smiling-businesswoman-working-laptop-sitting-cafe_197531-341.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 20px;
+  box-shadow: 2px 4px 6px #00000088;
+}
+
+.r9 .name {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.r9 .icons {
+  margin-top: 10px;
 }
 
 .r10 {
