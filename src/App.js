@@ -1,19 +1,18 @@
 import React from 'react'
 
+
 export default function App() {
   return (
     <>
 
-
-
       <div className="container-fluid">
         <div className="row r1">
           <div className="col-2"></div>
-          <div className="col-lg-5">
+          <div className="col-lg-2">
             <div className="img"></div>
             <div className="text1">INVESTMENTS</div>
           </div>
-          <div className="col-lg-5 d-flex justify-content-center align-content-center">
+          <div className="col-lg-6 d-flex justify-content-end align-content-center">
             <div className='mx-2'>
               <span><i class="fa fa-location-arrow" aria-hidden="true"></i></span>
               <span>121 King Street, Melbourne,Australia</span>
@@ -135,6 +134,36 @@ export default function App() {
           <div className="col-lg-4 cc1">
             <div className="img"></div>
             <div className="txt1">Strategy Development</div>
+            <div className="txt2">Quisque malesuada sed nibh nec facilisis isa. Aliquam at tincidunt odio</div>
+          </div>
+
+          <div className="col-lg-4 cc2">
+            <div className="img"></div>
+            <div className="txt1">Business Plan</div>
+            <div className="txt2">Quisque malesuada sed nibh nec facilisis isa. Aliquam at tincidunt odio</div>
+          </div>
+
+          <div className="col-lg-4 cc3">
+            <div className="img"></div>
+            <div className="txt1">Marketing Plan</div>
+            <div className="txt2">Quisque malesuada sed nibh nec facilisis isa. Aliquam at tincidunt odio</div>
+          </div>
+
+          <div className="col-lg-4 cc4">
+            <div className="img"></div>
+            <div className="txt1">Market Research</div>
+            <div className="txt2">Quisque malesuada sed nibh nec facilisis isa. Aliquam at tincidunt odio</div>
+          </div>
+
+          <div className="col-lg-4 cc5">
+            <div className="img"></div>
+            <div className="txt1">Stimulates Innovation</div>
+            <div className="txt2">Quisque malesuada sed nibh nec facilisis isa. Aliquam at tincidunt odio</div>
+          </div>
+
+          <div className="col-lg-4 cc6">
+            <div className="img"></div>
+            <div className="txt1">Support Customer</div>
             <div className="txt2">Quisque malesuada sed nibh nec facilisis isa. Aliquam at tincidunt odio</div>
           </div>
         </div>
