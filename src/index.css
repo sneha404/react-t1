@@ -715,7 +715,7 @@
 }
 
 .r13 .row {
-  /* height: 200px; */
+  height: 200px;
   background-color: #35444B;
   align-items: center;
   padding: 0 100px;
@@ -750,7 +750,7 @@
 .r13 .filter1 {
   position: absolute;
   width: 98%;
-  height: 400px;
+  height: 200px;
   background-color: #35444bad;
   z-index: 1;
 }
@@ -846,8 +846,12 @@
     margin-top: 30px;
   }
 
-  .r13 {
-    padding: 0px;
+  .r13 .row {
+    height: 400px;
+  }
+
+  .r13 .filter1 {
+    height: 400px;
   }
 
   .r12 {
@@ -863,6 +867,17 @@
 
   .r11 {
     padding: 10px;
+  }
+
+  .r11 .cc1 {
+    flex-direction: column;
+  }
+
+  .r11 .box1,
+  .r11 .box2,
+  .r11 .box3 {
+    width: unset;
+    margin-bottom: 20px;
   }
 
   .r10 {
